@@ -1,10 +1,9 @@
 # Clinical Heart Disease Study: Classification, Clustering & Regression
-**Author:** Rahma Hamed
 
-## 📌 Research Objective
+##  Research Objective
 To develop a multi-dimensional diagnostic support tool using the Heart Failure Prediction Dataset. This project explores patient data through three distinct computational lenses to identify severity, risk profiles, and biomarker correlations.
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### 1. Classification (Disease Severity)
 * **Goal:** Predict heart disease severity on a scale of 0 (No Disease) to 4 (High Severity).
